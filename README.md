@@ -60,7 +60,7 @@ src/
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/Portal_Multi-Simulados.git
+    git clone https://github.com/EsmeraldoCarneiro/Portal-Multi-Simulados.git
     ```
 2.  **Instale as dependências:**
     ```bash
